@@ -3,7 +3,7 @@
 Booth's algorithm is a procedure for the multiplication of two signed binary numbers in two's complement notation. 
 This code is a structural\behavioral implementation of the N bit Booth's multiplier in VHDL.
 
-![Alt text](/img/BOOTH_img.jpg?raw=true "BOOTH_add")
+![Alt text](/img/BOOTH_img.JPG?raw=true "BOOTH_add")
 
 ## Organization
 
